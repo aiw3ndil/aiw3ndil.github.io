@@ -3,26 +3,10 @@ layout: page
 title: About
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Welcome to my personal blog. I'm a [Web Developer](/portfolio/) based on Madrid.
 
-### Features
+I will be sharing some of my thoughts on topics related to programming, FreeBSD and maybe books, video games and music. 
 
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
+I hope you will enjoy the content or maybe find it useful.
 
-### Screenshot
-
-![Screenshot](screenshot.png)
+One of the reasons to write this blog is to improve my English, so I'm sorry if you find some grammatical errors.
