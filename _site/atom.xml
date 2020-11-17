@@ -1,16 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>r4d4g4st</title>
+ <title>aiw3ndil - Albert Oliva</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2020-05-31T15:30:24+02:00</updated>
+ <updated>2020-11-17T04:21:54+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Overdose of communication</title>
+   <link href="http://localhost:4000/2020/11/17/overdose-of-communication"/>
+   <updated>2020-11-17T00:00:00+01:00</updated>
+   <id>http://localhost:4000/2020/11/17/overdose-of-communication</id>
+   <content type="html">&lt;p&gt;Actually this post has nothing to do with his title. I was reading some of the thoughts
+of James Baudrillard about the consumer society and just re-realized the quote from The Matrix 
+movie: “Watch them liquefy the dead so they could be fed intravenously to the living.” We are
+just living the same production/consuming cycles over and over again.&lt;/p&gt;
+
+&lt;p&gt;I’ts funny how Baudrillard refers to it as an endless Apocallypsis. But actually it is. Most
+of us realized it at some point and just get through it as an skeptical consumer or an 
+outsider that tries in some way to fight or accelerate the timing of this cycles trying
+to stay focused on what we believe it’s real. So things like old unix systems, nice 
+programming languages as Ruby, not only because of it’s cool and friendly but because of the
+philosophy it holds inside because of it’s creator awareness of this phenomenal,
+the impermanence of things, and some other concepts fairly more extended in Asia that now
+are being feed (again) into occidental culture. But not in the form of pseudo-spirituality
+full of LSD and special effects but as a new point of view about current consumer society.&lt;/p&gt;
+
+&lt;p&gt;We are totally misunderstanding the aesthetics enhancements that brings spirituality. With a 
+new concept of consumption that calls for this “symbolic eyes” and total irreal perception
+of what Zen means to reality or even spirituality.&lt;/p&gt;
+
+&lt;p&gt;In brief… this only makes me feel more comfortable using again and again the work of the
+elder wizards like the people behind the FreeBSD project, Ruby On Rails and more recently
+Ember.js as a way to avoid this spiral of autodestruction we call Internet nowadays.&lt;/p&gt;
+
+&lt;p&gt;It’s time to seat back and see the system trying to do a very-fast-hard-reset.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2020 almost gone... 2021 stardust coming</title>
+   <link href="http://localhost:4000/2020/10/24/2020-almost-gone-stardust-coming"/>
+   <updated>2020-10-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/10/24/2020-almost-gone-stardust-coming</id>
+   <content type="html">&lt;p&gt;Well. This has been a tough year. Very difficult in so many ways. At least I’m sure I have found real love. A real, 
+close and deep connection with a woman. For the first time in my life I feel the immensity of that word, and the power 
+that holds inside. At the beginning it feels like your entire world and even image of yourself is melting down. 
+So who you really are? This time that doesn’t matter. What really matters is that you are going to born again in a 
+new being. This “new” being seems like a mental image of yourself (at least for me) close to an illusion, but with 
+a strain that makes you feel that this is an eternal gift and you are going to a place where the physical doesn’t 
+matter that much. In one word: Eternity.&lt;/p&gt;
+
+&lt;p&gt;Is strange when you realize that every picture that has been in front of you will continue to manifest in some way 
+forever.&lt;/p&gt;
+
+&lt;p&gt;As weird as it sounds your aura will manifest that energy in yourself and your surroundings, nature and fellows.&lt;/p&gt;
+
+&lt;p&gt;Somehow love continues to be the only possible way to interpret reality, but where is the handbrake when you are 
+dealing with the most delightful dreams and you have to go back to “reality”, I mean, work, school, family, friends…?&lt;/p&gt;
+
+&lt;p&gt;I started to believe the words of an spiritual teacher told me more than 6 years ago: «We are One».&lt;/p&gt;
+
+&lt;p&gt;I want to finish this with a fragment of one of my favourite Nu Metal bands P.O.D.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Cause I, I’m addicted, To all the colors that I see, that you hold in front of me, And you have changed, 
+yeah you have changed me”&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>About programming</title>
+   <link href="http://localhost:4000/2020/10/20/about-programming"/>
+   <updated>2020-10-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/2020/10/20/about-programming</id>
+   <content type="html">&lt;p&gt;It’s been a while since I started to play around with software programming languages.
+When I was eleven years old I give Basic a first try. I get amazed very fast with loops,
+the goto function and the possibility of emit sounds at a determined frequency
+with the computer speaker, also get to know the use of hex colors. Creating interactive
+scripts was funny because I could create start scripts for my games and favorite applications.&lt;/p&gt;
+
+&lt;p&gt;In only a few weeks I became obsessed with the idea of create a videogame so I moved to
+Pascal and Borland Delphi. A friend of mine discovered a package or IDE for game programming,
+the software in question was Div Games Studio 2. There was the real beginning, all of my friends
+started creating games with Div2 it was a great summer (we were kids on vacation) and all of
+us created really cool demos, but one of us really stood out about the rest, he developed his own
+particle system for creating really cool explossions almost with no lag, him called the demo supernova.&lt;/p&gt;
+
+&lt;p&gt;I learned so much from this friend, it was 3 years older than me and he did a great job on explaining me
+things about resources consuming and basic topics about optimization and maths.&lt;/p&gt;
+
+&lt;p&gt;With the passing of time we discovered Div2 was very resource consuming for the kind of demos we were
+creating and we started to diverge. I choose the path of C++ when my older friend started with .net and C#.&lt;/p&gt;
+
+&lt;p&gt;At this time I already was a big FreeBSD fanboy and GNU/Linux user. So I decided to learn all I could
+about systems administration and maintenance. I fall in love with servers to be honest, I tried every kind
+of home made server at my home. So I started to think in the long way about internet gaming so I learned
+PHP 4, so I begin a long trip of reverse engineering of applications written in PHP, like XOOPS, PHPNUKE
+and later Drupal and Wordpress. It was fast to create things and funny to have things running on your own
+computer connected to internet with DynDNS.&lt;/p&gt;
+
+&lt;p&gt;But what happens when you grow up as a programmer, you have done a lot of functional programming and you
+started to realize that being polyglot is an advantage rather than a weakness because you can get rid of
+old gigantic-monolithic applications and structure applications in a very efficient way. You can create
+every resource consuming part of your app as a service that can be accessed from any application.&lt;/p&gt;
+
+&lt;p&gt;For me right now is the way to go, resource optimization always will translate in saving natural resources.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>I Have No Mouth &amp; I Must Scream by Harlan Ellison</title>
@@ -112,7 +216,7 @@ mail delivery, that means all received email goes directly to an account on the 
 &lt;p&gt;When done your file &lt;em&gt;rc.conf&lt;/em&gt; should look like the following.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;/etc/rc.conf&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;postfix_enable=&quot;YES&quot;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;postfix_enable=&quot;YES&quot;
 dovecot_enable=&quot;YES&quot;
 sendmail_enable=&quot;NO&quot;
 sendmail_submit_enable=&quot;NO&quot;
@@ -123,8 +227,8 @@ saslauthd_enable=&quot;YES&quot;
 
 &lt;p&gt;Now we can install whe required packages.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;pkg install dovecot&lt;/code&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;pkg install postfix-sasl-3.3.1_1,1&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pkg install dovecot&lt;/code&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pkg install postfix-sasl-3.3.1_1,1&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;The first file we need to modify is postfix &lt;em&gt;main.cf&lt;/em&gt;. Be sure you
 have configured dovecot as your authentication mechanism for SMTP and your
@@ -135,7 +239,7 @@ certificates are correctly set up and updated.&lt;/p&gt;
 &lt;p&gt;In the first line you can check lmtp is the preferred mailbox transport.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;/usr/local/etc/postfix/main.cf&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;myhostname = mail.yourdomain.com
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;myhostname = mail.yourdomain.com
 mydomain = yourdomain.com
 mailbox_transport = lmtp:unix:private/dovecot-lmtp
 smtpd_sasl_auth_enable = yes
@@ -156,14 +260,14 @@ smtpd_use_tls=yes
 &lt;p&gt;Next be sure your dovecot is using the lmtp protocol.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;/usr/local/etc/dovecot/dovecot.conf&lt;/em&gt;&lt;/p&gt;
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Protocols we want to be serving.
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# Protocols we want to be serving.
 protocols = imap pop3 lmtp
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;p&gt;Now we need to restart the servers.&lt;/p&gt;
 
-&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;service postfix restart&lt;/code&gt;
-&lt;code class=&quot;highlighter-rouge&quot;&gt;service dovecot restart&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;service postfix restart&lt;/code&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;service dovecot restart&lt;/code&gt;&lt;/p&gt;
 
 &lt;p&gt;Thats all you need to get email working with a basic configuration, just to
 send and receive emails through your own domain.&lt;/p&gt;

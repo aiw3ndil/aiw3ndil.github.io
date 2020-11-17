@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "About programming"
-tags: Misc
+tags: Misc Programming
 ---
 
 It's been a while since I started to play around with software programming languages.
