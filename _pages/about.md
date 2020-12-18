@@ -5,6 +5,6 @@ title: About
 
 I'm working on:
 
-    - https:/enkilabs.site
-    - https://enkimail.com
-    - https://jombo.es
+    {% enkilabs https::/enkilabs.site %}
+    {% link enkimail :/enkimail.com %}
+    {% jombo http::/jombo.es %}
