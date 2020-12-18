@@ -13,7 +13,11 @@ body {
 	line-height:1.5;
 	font-size: 1rem;
 	color: white;
-	background-color: black;
+	background: url(/assets/img/waves.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
 }
 
 nav ul {
