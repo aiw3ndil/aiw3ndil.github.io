@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-I'm working on:
+Now working on:
 
-    {% enkilabs https://enkilabs.site %}
-    {% enkimail http://enkimail.com %}
-    {% jombo http://jombo.es %}
+ <a href="http://enkilabs.site/" target="_blank">Enkilabs</a><br>
+ <a href="http://enkimail.com/" target="_blank">enkimail</a><br>
+ <a href="http://jombo.es/" target="_blank">jombo.es</a><br>

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>aiw3ndil - Albert Oliva</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2020-11-17T04:21:54+01:00</updated>
- <id>http://localhost:4000</id>
+ <title>aiw3ndil</title>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2020-12-19T02:06:12+01:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Overdose of communication</title>
-   <link href="http://localhost:4000/2020/11/17/overdose-of-communication"/>
+   <link href="/2020/11/17/overdose-of-communication"/>
    <updated>2020-11-17T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/11/17/overdose-of-communication</id>
+   <id>/2020/11/17/overdose-of-communication</id>
    <content type="html">&lt;p&gt;Actually this post has nothing to do with his title. I was reading some of the thoughts
 of James Baudrillard about the consumer society and just re-realized the quote from The Matrix 
 movie: “Watch them liquefy the dead so they could be fed intravenously to the living.” We are
@@ -27,18 +27,18 @@ of us realized it at some point and just get through it as an skeptical consumer
 outsider that tries in some way to fight or accelerate the timing of this cycles trying
 to stay focused on what we believe it’s real. So things like old unix systems, nice 
 programming languages as Ruby, not only because of it’s cool and friendly but because of the
-philosophy it holds inside because of it’s creator awareness of this phenomenal,
+philosophy it holds inside because of it’s creator awareness of this phenomena,
 the impermanence of things, and some other concepts fairly more extended in Asia that now
 are being feed (again) into occidental culture. But not in the form of pseudo-spirituality
 full of LSD and special effects but as a new point of view about current consumer society.&lt;/p&gt;
 
 &lt;p&gt;We are totally misunderstanding the aesthetics enhancements that brings spirituality. With a 
-new concept of consumption that calls for this “symbolic eyes” and total irreal perception
+new concept of consumption that calls for this “symbolic eyes” and unreal perception
 of what Zen means to reality or even spirituality.&lt;/p&gt;
 
 &lt;p&gt;In brief… this only makes me feel more comfortable using again and again the work of the
 elder wizards like the people behind the FreeBSD project, Ruby On Rails and more recently
-Ember.js as a way to avoid this spiral of autodestruction we call Internet nowadays.&lt;/p&gt;
+Ember.js as a way to avoid this spiral of auto-destruction we call society nowadays.&lt;/p&gt;
 
 &lt;p&gt;It’s time to seat back and see the system trying to do a very-fast-hard-reset.&lt;/p&gt;
 </content>
@@ -46,9 +46,9 @@ Ember.js as a way to avoid this spiral of autodestruction we call Internet nowad
  
  <entry>
    <title>2020 almost gone... 2021 stardust coming</title>
-   <link href="http://localhost:4000/2020/10/24/2020-almost-gone-stardust-coming"/>
+   <link href="/2020/10/24/2020-almost-gone-stardust-coming"/>
    <updated>2020-10-24T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/10/24/2020-almost-gone-stardust-coming</id>
+   <id>/2020/10/24/2020-almost-gone-stardust-coming</id>
    <content type="html">&lt;p&gt;Well. This has been a tough year. Very difficult in so many ways. At least I’m sure I have found real love. A real, 
 close and deep connection with a woman. For the first time in my life I feel the immensity of that word, and the power 
 that holds inside. At the beginning it feels like your entire world and even image of yourself is melting down. 
@@ -78,9 +78,9 @@ yeah you have changed me”&lt;/p&gt;
  
  <entry>
    <title>About programming</title>
-   <link href="http://localhost:4000/2020/10/20/about-programming"/>
+   <link href="/2020/10/20/about-programming"/>
    <updated>2020-10-20T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/10/20/about-programming</id>
+   <id>/2020/10/20/about-programming</id>
    <content type="html">&lt;p&gt;It’s been a while since I started to play around with software programming languages.
 When I was eleven years old I give Basic a first try. I get amazed very fast with loops,
 the goto function and the possibility of emit sounds at a determined frequency
@@ -118,9 +118,9 @@ every resource consuming part of your app as a service that can be accessed from
  
  <entry>
    <title>I Have No Mouth &amp; I Must Scream by Harlan Ellison</title>
-   <link href="http://localhost:4000/2020/04/11/i-have-no-mouth-and-i-must-scream"/>
+   <link href="/2020/04/11/i-have-no-mouth-and-i-must-scream"/>
    <updated>2020-04-11T00:00:00+02:00</updated>
-   <id>http://localhost:4000/2020/04/11/i-have-no-mouth-and-i-must-scream</id>
+   <id>/2020/04/11/i-have-no-mouth-and-i-must-scream</id>
    <content type="html">&lt;p&gt;This is my favorite fragment from the novel by Harlan Ellison, when AM speaks.&lt;/p&gt;
 
 &lt;p&gt;“At first it meant Allied Mastercomputer, and then it meant Adaptative Manipulator, and later on it developed sentience and linked itselt up and they called it Agressive Menace, but by then it was too late, and finally &lt;em&gt;called itself&lt;/em&gt; AM, emerging intelligence, and what it mean was I am .. &lt;em&gt;cogito ergo sum&lt;/em&gt; … I think, therefore I am”.&lt;/p&gt;
@@ -155,9 +155,9 @@ drowning me from within.&lt;/p&gt;
  
  <entry>
    <title>Abandoning mainstream</title>
-   <link href="http://localhost:4000/2020/01/27/abandoning-mainstream"/>
+   <link href="/2020/01/27/abandoning-mainstream"/>
    <updated>2020-01-27T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2020/01/27/abandoning-mainstream</id>
+   <id>/2020/01/27/abandoning-mainstream</id>
    <content type="html">&lt;p&gt;Recently I started to feel a lot of anxiety.&lt;/p&gt;
 
 &lt;p&gt;I used to have to have a lot of things in mind, read a lot every day, keep myself updated on
@@ -194,9 +194,9 @@ matters from my contacts and friends.&lt;/p&gt;
  
  <entry>
    <title>Dovecot and Postfix setup on FreeBSD</title>
-   <link href="http://localhost:4000/2019/11/07/dovecot-and-postfix-setup-on-freebsd"/>
+   <link href="/2019/11/07/dovecot-and-postfix-setup-on-freebsd"/>
    <updated>2019-11-07T00:00:00+01:00</updated>
-   <id>http://localhost:4000/2019/11/07/dovecot-and-postfix-setup-on-freebsd</id>
+   <id>/2019/11/07/dovecot-and-postfix-setup-on-freebsd</id>
    <content type="html">&lt;p&gt;This is my basic setup for Dovecot and Postfix under FreeBSD. I use &lt;a href=&quot;https://en.wikipedia.org/wiki/Local_Mail_Transfer_Protocol&quot;&gt;LMTP&lt;/a&gt; for local
 mail delivery, that means all received email goes directly to an account on the system.&lt;/p&gt;
 
