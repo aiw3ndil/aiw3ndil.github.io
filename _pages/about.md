@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a Backend Web Developer based on Madrid.
+I'm a <a href="https://www.linkedin.com/in/albertoliva/" target="_blank">Backend Web Developer</a> based on Madrid.
 
 Now working on:
 
