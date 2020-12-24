@@ -12,8 +12,8 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	color: white;
-	background: url(/assets/img/waves.png) no-repeat center center fixed;
+	color: black;
+	background: url(/assets/img/mosaic.png) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -21,11 +21,11 @@ body {
 }
 
 nav ul {
-    border-right: 1px solid #edf2f7;
+    border-right: 1px solid #000000;
 }
 
 a {
-    color: #ffffff;
+    color: #23b9d1;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 }
@@ -52,7 +52,7 @@ pre {
 }
 
 code,pre {
-	background: #0a64bf;
+	background: #23b9d1;
 }
 
 code {
@@ -73,7 +73,7 @@ img {
 }
 
 hr {
-	background: #ffffff;
+	background: #23b9d1;
     height: 1px;
     border: 0;
 }
@@ -104,7 +104,7 @@ header,section {
 
 blockquote {
 	font-style: italic;
-	background-color: #263d6c;
+	background-color: #23b9d1;
     padding: 1rem;
 }
 
@@ -180,7 +180,7 @@ header li {
 	padding-bottom: 1rem;
 }
 header ul {
-	border-bottom: 1px solid #edf2f7;
+	border-bottom: 1px solid #000000;
 	padding-bottom: 2rem;	
 }
 nav ul {
