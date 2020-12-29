@@ -12,8 +12,8 @@ body {
     text-rendering: optimizeLegibility;
 	line-height:1.5;
 	font-size: 1rem;
-	color: black;
-	background: url(/assets/img/mosaic.png) no-repeat center center fixed;
+	color: #ffffff;
+	background: url(/assets/img/mosaic-black.png) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -21,7 +21,7 @@ body {
 }
 
 nav ul {
-    border-right: 1px solid #000000;
+    border-right: 1px solid #ffffff;
 }
 
 a {
@@ -180,7 +180,7 @@ header li {
 	padding-bottom: 1rem;
 }
 header ul {
-	border-bottom: 1px solid #000000;
+	border-bottom: 1px solid #ffffff;
 	padding-bottom: 2rem;	
 }
 nav ul {
