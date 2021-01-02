@@ -1,7 +1,1 @@
-# Welcome
-
-This is my blog repo.
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+https://aiw3ndil.github.io
