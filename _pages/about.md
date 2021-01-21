@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I'm a <a href="https://albertoliva.xyz/" target="_blank">Backend Web Developer</a> based on Madrid.
+I'm a <a href="https://albertoliva.xyz/">Backend Web Developer</a> based on Madrid.
 
 Now working on:
 
